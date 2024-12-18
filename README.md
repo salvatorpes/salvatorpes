@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salvador Torpes (@salvatorpes)!
-- 👀 I’m interested in Machine Learning, Physics and Artifical Intelligence.
+- 👀 I studied Physics Engineering @ULisboa IST
 - 🌱 I’m currently studying Artificial Intelligence @UvA
 
 <!---
